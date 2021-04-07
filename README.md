@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **Infynno Solutions in Ahmedabad**
 - 🌱 I’m currently learning **AWS and NestJS Microservices**
 - 💬 Ask me about **React, GatsbyJS, Laravel and NodeJS**
-- 📫 How to reach me: [hello@krunal.me](mailto:shahkrunal7091@gmail.com) via email
+- 📫 How to reach me: [shahkrunal7091@gmail.com](mailto:shahkrunal7091@gmail.com) via email
 - ⚡ Fun fact: Big Fan of anime
 
 ---
