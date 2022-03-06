@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Big Fan of anime
 
 ---
-<h2 align="left" id="imkrunal-tech">Favorite Tech</h2>
+<h2 align="left" id="imkrunal-tech">Favorite Tech & Stats</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -128,4 +128,10 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imkrunal&theme=nord&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=imkrunal&theme=nord&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=imkrunal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imkrunal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imkrunal&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <img src ="https://github-profile-trophy.vercel.app/?username=imkrunal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
+</p>
