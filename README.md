@@ -9,6 +9,7 @@
 
 ---
 <h2 align="left" id="imkrunal-tech">Favorite Tech</h2>
+
 > Tools, languages, and other things that I like to work with.
 
 <table>
@@ -126,3 +127,5 @@
     </td>
   </tr>
 </table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=imkrunal&theme=nord&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=imkrunal&theme=nord&no-frame=true&row=1&&margin-w=20&no-bg=true)
